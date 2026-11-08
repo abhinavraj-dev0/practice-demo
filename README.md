@@ -6,5 +6,5 @@
 - C programming
 - learning 
 
-'main.c'
+`main.c`
 [Github](https://github.com/abhinavraj-dev0/practice-demo)
