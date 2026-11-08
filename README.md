@@ -1,9 +1,10 @@
 # PRACTICE DEMO
 ## Just Random try and fail files
 
-**README pratice**
+**README practice**
 
--C programming
+- C programming
+- learning 
 
 'main.c'
 [Github](https://github.com/abhinavraj-dev0/practice-demo)
